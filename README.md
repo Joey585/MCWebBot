@@ -2,7 +2,7 @@
 
 <h3>For Beginners:</h3>
 
-1. Click releases on the left side of the screen
+1. Click releases on the right side of the screen
   
 2. Download the zip file
   
